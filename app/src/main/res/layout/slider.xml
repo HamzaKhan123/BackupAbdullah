@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/abc"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <!-- The drawables used here can be solid colors, gradients, shapes, images, etc. -->
+
+</transition>
